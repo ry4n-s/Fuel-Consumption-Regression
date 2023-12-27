@@ -1,4 +1,4 @@
-# 🚗 Fuel Consumption and CO2 Emission Analysis with Linear Regression
+# 🚗 Fuel Consumption and CO2 Emission Analysis
 
 ## Overview
 This project uses Python and machine learning libraries to analyze and predict CO2 emissions based on fuel consumption data. It includes both Simple and Multiple Linear Regression models.
